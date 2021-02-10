@@ -1,3 +1,3 @@
-In Class 35 you created a form for players to log in, added input for name and button to Play. You also created playerCount and gameState in the database. You learned to update gameState and player count to database.
+You have created the basic structure of the Virtual Pet all for Shreya in the last project. Now let's make it more attractive!
 
-In this project you will apply the concepts learned in class and continue to add more elements to the virtual pet app.
+Add a functionality where Shreya can easily track the food stock she has and the time she feeds the dog. She should also be able to add food in food stock when it is finished.
